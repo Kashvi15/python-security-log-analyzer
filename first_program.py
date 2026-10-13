@@ -13,7 +13,7 @@ for line in log_lines:
         else:
             successful_logins[ip] = 1    
 
-print("Successful logins:", successful_logins)
+print("\nSuccessful logins:", successful_logins)
 
 failed_logins = {}
 
