@@ -68,3 +68,5 @@ for ip, attempts in failed_logins.items():
 
 with open("security_report.txt","a") as file:
     file.write("\n===== Security Report =====\n")
+    file.write("Total Failed Login Attempts: " + str(total_attempts) + "\n")
+    file.write("Total Unique IP Addresses: " + str(total_ips) + "\n")
