@@ -66,4 +66,5 @@ for ip, attempts in failed_logins.items():
 
         print("SECURITY ALERT:", ip, "| Attempts:", attempts, "| Severity:", severity)
 
-
+with open("security_report.txt","a") as file:
+    file.write("\n===== Security Report =====\n")
