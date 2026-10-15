@@ -65,3 +65,5 @@ for ip, attempts in failed_logins.items():
             severity = "MEDIUM"
 
         print("SECURITY ALERT:", ip, "| Attempts:", attempts, "| Severity:", severity)
+
+
