@@ -1,3 +1,4 @@
+from datetime import datetime
 with open("security_logs.txt","r") as file:
     log_lines = file.readlines()
 
@@ -68,5 +69,33 @@ for ip, attempts in failed_logins.items():
 
 with open("security_report.txt","a") as file:
     file.write("\n===== Security Report =====\n")
+    report_time = datetime.now().strftime("%d-%m-%Y | %I:%M %p")
+    file.write("Report Generated At : " + report_time + "\n")
     file.write("Total Failed Login Attempts: " + str(total_attempts) + "\n")
     file.write("Total Unique IP Addresses: " + str(total_ips) + "\n")
+    file.write("\nFailed Login Summary:\n")
+
+    for ip, attempts in sorted_logins:
+        file.write(ip + " : " + str(attempts) + "\n")
+        
+    file.write("\nSuccessful Login Summary:\n")
+
+    for ip, attempts in successful_logins.items():
+        file.write(ip + " : " + str(attempts) + "\n")    
+
+    file.write("\nSecurity Alerts:\n")
+
+    for ip, attempts in failed_logins.items():
+        if attempts >= threshold:
+            if attempts >= 5:
+                severity = "HIGH"
+            else:
+                severity = "MEDIUM"
+
+            file.write(
+                "SECURITY ALERT: " + ip
+                + " | Attempts: " + str(attempts)
+                + " | Severity: " + severity + "\n"
+            )        
+     
+
