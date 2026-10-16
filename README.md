@@ -12,17 +12,21 @@ This is a beginner-friendly cybersecurity project built using Python. It analyze
 - Generates security alerts based on configurable thresholds.
 - Identifies IP addresses with both failed and successful logins.
 - Warns when failed login attempts are followed by a successful login from the same IP.
+- Writes security report information to security_report.txt.
+- Uses append mode to preserve existing report content when adding new information
 
 ## Technologies Used
 - Python
 - File Handling
 - Dictionaries and Loops
 - Conditional Statements
+- Sorting
 - Basic Log Analysis
 
 ## Project Files
 - `first_program.py` — Main Python program.
 - `security_logs.txt` — Sample security log data.
+- `security_report.txt` — File used to store security report information.
 - `README.md` — Project documentation.
 
 ## How to Run
