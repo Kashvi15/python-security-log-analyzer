@@ -1,0 +1,190 @@
+
+===== Security Report =====
+
+===== Security Report =====
+Total Failed Login Attempts: 14
+
+===== Security Report =====
+Total Failed Login Attempts: 14
+
+===== Security Report =====
+Total Failed Login Attempts: 14
+Total Unique IP Addresses: 4
+
+===== Security Report =====
+Total Failed Login Attempts: 14
+Total Unique IP Addresses: 4
+
+Failed Login Summary:
+192.0.2.50 : 5
+203.0.113.100 : 5
+203.0.113.90 : 3
+192.0.2.75 : 1
+
+===== Security Report =====
+Total Failed Login Attempts: 14
+Total Unique IP Addresses: 4
+
+Failed Login Summary:
+192.0.2.50 : 5
+203.0.113.100 : 5
+203.0.113.90 : 3
+192.0.2.75 : 1
+
+Security Alerts:
+SECURITY ALERT: 192.0.2.50 | Attempts: 5 | Severity: HIGH
+SECURITY ALERT: 203.0.113.90 | Attempts: 3 | Severity: MEDIUM
+SECURITY ALERT: 203.0.113.100 | Attempts: 5 | Severity: HIGH
+
+===== Security Report =====
+Report Genrated At: 2026-10-16 04:38:45.012458
+Total Failed Login Attempts: 14
+Total Unique IP Addresses: 4
+
+Failed Login Summary:
+192.0.2.50 : 5
+203.0.113.100 : 5
+203.0.113.90 : 3
+192.0.2.75 : 1
+
+Security Alerts:
+SECURITY ALERT: 192.0.2.50 | Attempts: 5 | Severity: HIGH
+SECURITY ALERT: 203.0.113.90 | Attempts: 3 | Severity: MEDIUM
+SECURITY ALERT: 203.0.113.100 | Attempts: 5 | Severity: HIGH
+
+===== Security Report =====
+Report Genrated At: 16-10-2026 | 04:44 AM
+Total Failed Login Attempts: 14
+Total Unique IP Addresses: 4
+
+Failed Login Summary:
+192.0.2.50 : 5
+203.0.113.100 : 5
+203.0.113.90 : 3
+192.0.2.75 : 1
+
+Security Alerts:
+SECURITY ALERT: 192.0.2.50 | Attempts: 5 | Severity: HIGH
+SECURITY ALERT: 203.0.113.90 | Attempts: 3 | Severity: MEDIUM
+SECURITY ALERT: 203.0.113.100 | Attempts: 5 | Severity: HIGH
+
+===== Security Report =====
+Report Genrated At: 16-10-2026 | 04:50 AM
+Total Failed Login Attempts: 14
+Total Unique IP Addresses: 4
+
+Failed Login Summary:
+192.0.2.50 : 5
+203.0.113.100 : 5
+203.0.113.90 : 3
+192.0.2.75 : 1
+
+ Successful Login Summary:
+198.51.100.40 : 1
+203.0.113.70 : 1
+203.0.113.90 : 1
+192.0.2.50 : 1
+198.51.100.60 : 1
+203.0.113.110 : 1
+
+Security Alerts:
+SECURITY ALERT: 192.0.2.50 | Attempts: 5 | Severity: HIGH
+SECURITY ALERT: 203.0.113.90 | Attempts: 3 | Severity: MEDIUM
+SECURITY ALERT: 203.0.113.100 | Attempts: 5 | Severity: HIGH
+
+===== Security Report =====
+Report Genrated At: 16-10-2026 | 04:51 AM
+Total Failed Login Attempts: 14
+Total Unique IP Addresses: 4
+
+Failed Login Summary:
+192.0.2.50 : 5
+203.0.113.100 : 5
+203.0.113.90 : 3
+192.0.2.75 : 1
+
+Successful Login Summary:
+198.51.100.40 : 1
+203.0.113.70 : 1
+203.0.113.90 : 1
+192.0.2.50 : 1
+198.51.100.60 : 1
+203.0.113.110 : 1
+
+Security Alerts:
+SECURITY ALERT: 192.0.2.50 | Attempts: 5 | Severity: HIGH
+SECURITY ALERT: 203.0.113.90 | Attempts: 3 | Severity: MEDIUM
+SECURITY ALERT: 203.0.113.100 | Attempts: 5 | Severity: HIGH
+
+===== Security Report =====
+Report Genrated At: 16-10-2026 | 04:57 AM
+Total Failed Login Attempts: 14
+Total Unique IP Addresses: 4
+
+Failed Login Summary:
+192.0.2.50 : 5
+203.0.113.100 : 5
+203.0.113.90 : 3
+192.0.2.75 : 1
+
+Successful Login Summary:
+198.51.100.40 : 1
+203.0.113.70 : 1
+203.0.113.90 : 1
+192.0.2.50 : 1
+198.51.100.60 : 1
+203.0.113.110 : 1
+
+Security Alerts:
+SECURITY ALERT: 192.0.2.50 | Attempts: 5 | Severity: HIGH
+SECURITY ALERT: 203.0.113.90 | Attempts: 3 | Severity: MEDIUM
+SECURITY ALERT: 203.0.113.100 | Attempts: 5 | Severity: HIGH
+
+===== Security Report =====
+Report Genrated At: 16-10-2026 | 04:58 AM
+Total Failed Login Attempts: 14
+Total Unique IP Addresses: 4
+
+Failed Login Summary:
+192.0.2.50 : 5
+203.0.113.100 : 5
+203.0.113.90 : 3
+192.0.2.75 : 1
+
+Successful Login Summary:
+198.51.100.40 : 1
+203.0.113.70 : 1
+203.0.113.90 : 1
+192.0.2.50 : 1
+198.51.100.60 : 1
+203.0.113.110 : 1
+
+Security Alerts:
+SECURITY ALERT: 192.0.2.50 | Attempts: 5 | Severity: HIGH
+SECURITY ALERT: 203.0.113.90 | Attempts: 3 | Severity: MEDIUM
+SECURITY ALERT: 203.0.113.100 | Attempts: 5 | Severity: HIGH
+
+===== Security Report =====
+Report Genrated At: 16-10-2026 | 05:02 AM
+Total Failed Login Attempts: 15
+Total Unique IP Addresses: 5
+
+Failed Login Summary:
+192.0.2.50 : 5
+203.0.113.100 : 5
+203.0.113.90 : 3
+192.0.2.75 : 1
+ssh2 : 1
+
+Successful Login Summary:
+198.51.100.40 : 1
+203.0.113.70 : 1
+203.0.113.90 : 1
+192.0.2.50 : 1
+198.51.100.60 : 1
+203.0.113.110 : 1
+
+Security Alerts:
+SECURITY ALERT: 192.0.2.50 | Attempts: 5 | Severity: HIGH
+SECURITY ALERT: 203.0.113.90 | Attempts: 3 | Severity: MEDIUM
+SECURITY ALERT: 203.0.113.100 | Attempts: 5 | Severity: HIGH
