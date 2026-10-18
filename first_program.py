@@ -7,7 +7,7 @@ successful_logins = {}
 for line in log_lines:
     if "Accepted password" in line:
         parts = line.split()
-        ip = parts[-1]
+        ip = parts[parts,index("from") + 1]
 
         if ip in successful_logins:
             successful_logins[ip] = successful_logins[ip] + 1
@@ -21,7 +21,7 @@ failed_logins = {}
 for line in log_lines:
     if "Failed password" in line:
         parts = line.split()
-        ip = parts[-1]
+        ip = parts[parts.index("from") + 1]
 
         if ip in failed_logins:
             failed_logins[ip] = failed_logins[ip] + 1
