@@ -13,7 +13,9 @@ This is a beginner-friendly cybersecurity project built using Python. It analyze
 - Identifies IP addresses with both failed and successful logins.
 - Warns when failed login attempts are followed by a successful login from the same IP.
 - Writes security report information to security_report.txt.
-- Uses append mode to preserve existing report content when adding new information
+- Uses append mode to preserve existing report content when adding new information.
+- Accurate IP address extraction from failed and successful logs.
+- Improved log parsing to prevent incorrect IP identificatio.
 
 ## Technologies Used
 - Python
