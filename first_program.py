@@ -7,7 +7,7 @@ successful_logins = {}
 for line in log_lines:
     if "Accepted password" in line:
         parts = line.split()
-        ip = parts[parts,index("from") + 1]
+        ip = parts[parts.index("from") + 1]
 
         if ip in successful_logins:
             successful_logins[ip] = successful_logins[ip] + 1
@@ -97,5 +97,3 @@ with open("security_report.txt","a") as file:
                 + " | Attempts: " + str(attempts)
                 + " | Severity: " + severity + "\n"
             )        
-     
-
